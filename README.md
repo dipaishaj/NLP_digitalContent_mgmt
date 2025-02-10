@@ -1,4 +1,4 @@
-# NLP_digitalContent_mgmt
+# NLP Digital Content Management
 Build a sequential NLP classifier to determine customer sentiments, identify the labels of blogs, and create a chatbot. 
 ### **In Part 2 the chatbot named "*Olywalker*" is created and it gives satisfactory responses to the questions asked.**
 
